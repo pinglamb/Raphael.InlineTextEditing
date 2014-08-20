@@ -1,21 +1,21 @@
 {
-  "name": 'Raphael.InlineTextEditing',
-  "version": '1.0.1',
-  "homepage": 'https://github.com/marmelab/Raphael.InlineTextEditing',
+  "name": "Raphael.InlineTextEditing",
+  "version": "1.0.2",
+  "homepage": "https://github.com/marmelab/Raphael.InlineTextEditing",
   "authors": [
-    'Emmanuel Quentin - marmelab'
+    "Emmanuel Quentin - marmelab"
   ],
-  "description": 'Raphael Inline Text Editing',
+  "description": "Raphael Inline Text Editing",
   "keywords": [
-    'raphael',
-    'editable'
+    "raphael",
+    "editable"
   ],
-  "license": 'MIT',
+  "license": "MIT",
   "ignore": [
-    '**/.*',
-    'node_modules',
-    'bower_components',
-    'test',
-    'tests'
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
   ]
 }
